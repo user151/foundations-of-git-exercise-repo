@@ -1,0 +1,6 @@
+SSCC / NVE - numer opakowania
+Order processing - Processing Types - picking list / delivery note / invoice
+Business  partner (app) - GLN number, SSCC assigment (check)
+Customer orders (app) - processing type - NVE,  (2 screen) Reservation tab -> Automatic allocation (btn) - save, 
+(1 screen) deadline code ex.10 - from menu -> Immidient processing (creating picking list)
+Customer Orders (M0SSCCAM) - picking list (allocation tab then information tab)
